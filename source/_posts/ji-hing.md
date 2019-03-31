@@ -13,7 +13,7 @@ description: 字型增補、網頁字型服務
 - **[下載](https://github.com/tauhu-tw/tauhu-oo/raw/master/TauhuOo-Regular.otf)**
 - [GitHub](https://github.com/tauhu-tw/tauhu-oo)
 - 發佈日期
-	- 2019-03-30
+	- 2019-03-31
 - 支援字符
 	- Basic Latin (ASCII)
 	- Big5-2003 漢字 (13,060 字)
@@ -35,7 +35,7 @@ description: 字型增補、網頁字型服務
 - **[下載](https://github.com/tauhu-tw/tauhu-mootng/raw/master/TauhuMootng-Regular.otf)**
 - [GitHub](https://github.com/tauhu-tw/tauhu-mootng)
 - 發佈日期
-	- 2019-03-30
+	- 2019-03-31
 - 支援字符
 	- Basic Latin (ASCII)
 	- 羅馬字標點符號
