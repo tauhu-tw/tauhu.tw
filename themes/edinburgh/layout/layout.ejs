@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="nan-TW">
+  <%- partial('_partial/head') %>
+  <body onload="parseLink();">
+  	<div class="container-fluid navbar-container m-sm-5">
+      <%- partial('_partial/header') %>
+
+  		<div class="row">
+  			<%- body %>
+      </div>
+      <% if (page.total > 1) { %>
+    <nav class="page-nav">
+        <%- paginator({prev_text: '<', next_text: '>'}) %>
+    </nav>
+<% } %>
+  	</div>
+    <%- partial('_partial/footer') %>
+  </body>
+</html>

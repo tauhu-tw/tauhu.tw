@@ -1,0 +1,7 @@
+@font-face{
+    font-family: tauhu-oo;
+	src: local("TauhuOo-Regular"),
+	 url(https://tauhu.tw/TauhuOo-Regular.woff2) format("woff2"),
+	 url(https://tauhu.tw/TauhuOo-Regular.woff) format("woff"),
+	 url(https://tauhu.tw/TauhuOo-Regular.otf) format("opentype");
+}
