@@ -5,6 +5,22 @@
 	url(logo.otf) format("opentype");
 }
 
+@font-face{
+    font-family: tauhu-oo;
+	src: local("TauhuOo20.05-Regular"),
+	 url(/TauhuOo20.05-Regular.woff2) format("woff2"),
+	 url(/TauhuOo20.05-Regular.woff) format("woff"),
+	 url(/TauhuOo20.05-Regular.otf) format("opentype");
+}
+
+@font-face{
+    font-family: tauhu-mootng;
+	src: local("TauhuMootng20.05-Regular"),
+	url(/TauhuMootng20.05-Regular.woff2) format("woff2"), 
+	url(/TauhuMootng20.05-Regular.woff) format("woff"),
+	url(/TauhuMootng20.05-Regular.otf) format("opentype");
+}
+
 body {
 	font-family: tauhu-oo, sans-serif;
 }

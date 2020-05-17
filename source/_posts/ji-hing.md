@@ -5,15 +5,15 @@ cover_image: ji-hing.png
 description: 字型增補、網頁字型服務
 ---
 
-## 豆腐烏
+## 豆腐烏 20.05
 
 支援本土語言漢字、羅馬字的烏體字型，修改自 [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)。
 若需要其他語言文字，會使佮 [Google Noto Fonts](https://www.google.com/get/noto/) 做伙使用。
 
-- **[下載](https://github.com/tauhu-tw/tauhu-oo/raw/master/TauhuOo-Regular.otf)**
+- **[下載](https://github.com/tauhu-tw/tauhu-oo/archive/master.zip)**
 - [GitHub](https://github.com/tauhu-tw/tauhu-oo)
 - 發佈日期
-	- 2019-03-31
+	- 2020-05-17
 - 支援字符
 	- Basic Latin (ASCII)
 	- Big5-2003 漢字 (13,060 字)
@@ -22,20 +22,18 @@ description: 字型增補、網頁字型服務
 	- 漢字、羅馬字標點符號
 	- 表意文字描述字符
 	- [本土語言外字表](/gua-ji-pio/)
-		- 「⿸疒哥」採用萌典暫編碼「󿗧 (U+FF5E7)」
-		- 「⿰車藏」採用全字庫暫編碼「󸾯 (U+F8FAF)」
 		- 「⿺皮卜」採用萌典暫編碼「󿕅 (U+FF545)」
 - 授權條款
 	- [SIL Open Font License 1.1](https://scripts.sil.org/OFL)
 
-## <div class=mootng>Tāu-hū Môo-tn̄g</div>
+## <div class=mootng>Tāu-hū Môo-tn̄g 20.05</div>
 
 支援本土語言羅馬字的等寬字型，修改自 [Babelstone Modern](http://www.babelstone.co.uk/Fonts/Download/BabelStoneModern.ttf)。
 
-- **[下載](https://github.com/tauhu-tw/tauhu-mootng/raw/master/TauhuMootng-Regular.otf)**
+- **[下載](https://github.com/tauhu-tw/tauhu-mootng/archive/master.zip)**
 - [GitHub](https://github.com/tauhu-tw/tauhu-mootng)
 - 發佈日期
-	- 2019-03-31
+	- 2020-05-17
 - 支援字符
 	- Basic Latin (ASCII)
 	- 羅馬字標點符號

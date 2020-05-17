@@ -1,7 +1,7 @@
 @font-face{
     font-family: tauhu-mootng;
-	src: local("TauhuMootng-Regular"),
-	url(https://tauhu.tw/TauhuMootng-Regular.woff2) format("woff2"), 
-	url(https://tauhu.tw/TauhuMootng-Regular.woff) format("woff"),
-	url(https://tauhu.tw/TauhuMootng-Regular.otf) format("opentype");
+	src: local("TauhuMootng20.05-Regular"),
+	url(https://tauhu.tw/TauhuMootng20.05-Regular.woff2) format("woff2"), 
+	url(https://tauhu.tw/TauhuMootng20.05-Regular.woff) format("woff"),
+	url(https://tauhu.tw/TauhuMootng20.05-Regular.otf) format("opentype");
 }
